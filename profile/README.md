@@ -2,16 +2,9 @@
 
 Welcome to the Kathará Framework on GitHub! Kathará is a network emulator designed for networking education, research and testing. Our aim is to provide a flexible and practical environment for testing, experimenting, and learning about computer networks.
 
-## About Kathará Framework
-
-**Kathará** (from the Greek Καθαρά, _purely_) is a lightweight network emulation system based on Docker containers.
-It can be really helpful in showing interactive demos/lessons, testing production networks in a sandbox environment, or developing new network protocols and technologies.
-
-Kathará is the spiritual successor of the notorious [Netkit](https://www.netkit.org/), hence it is cross-compatible, and inherits its language and features.
-
 ## Projects
 
-Here are some of the projects hosted under the KatharaFramework organization:
+Here are some of the projects:
 
 - [Kathará](https://github.com/KatharaFramework/Kathara): The core framework that powers network emulation.
 - [Docker Images](https://github.com/KatharaFramework/Docker-Images): Docker images that provide specialized suites for different network scenarios.
