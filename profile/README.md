@@ -9,6 +9,7 @@ Here are some of the projects:
 - [Kathará](https://github.com/KatharaFramework/Kathara): The core framework that powers network emulation.
 - [Docker Images](https://github.com/KatharaFramework/Docker-Images): Docker images that provide specialized suites for different network scenarios.
 - [Kathará Labs](https://github.com/KatharaFramework/Kathara-Labs): Collection of the official Kathará network scenarios, tutorials and exercises.
+- [Kathará Network Plugin](https://github.com/KatharaFramework/NetworkPlugin): Docker Network Plugin used by Kathará to create pure L2 networks. 
 
 ## How to Contribute
 
