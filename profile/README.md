@@ -10,7 +10,8 @@ Here are some of the projects:
 - [Docker Images](https://github.com/KatharaFramework/Docker-Images): Docker images that provide specialized suites for different network scenarios.
 - [Kathará Labs](https://github.com/KatharaFramework/Kathara-Labs): Collection of the official Kathará network scenarios, tutorials and exercises.
 - [Kathará Lab Checker](https://github.com/KatharaFramework/kathara-lab-checker): Tool to automatically check Kathará network scenarios based on a configuration file. 
-- [Kathará Network Plugin](https://github.com/KatharaFramework/NetworkPlugin): Docker Network Plugin used by Kathará to create pure L2 networks. 
+- [Kathará Network Plugin](https://github.com/KatharaFramework/NetworkPlugin): Docker Network Plugin used by Kathará to create pure L2 networks.
+- [Netkit Lab Generator](https://github.com/KatharaFramework/Netkit-Lab-Generator): A tool to configure a Kathará or a Netkit lab and generate all the files you need and the topology graph.
 
 ## How to Contribute
 
