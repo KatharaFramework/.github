@@ -4,7 +4,7 @@ Welcome to the Kathará Framework on GitHub! Kathará is a network emulator desi
 
 ## Projects
 
-Here are some of the projects:
+### Core Framework and Tools
 
 - [Kathará](https://github.com/KatharaFramework/Kathara): The core framework that powers network emulation.
 - [Docker Images](https://github.com/KatharaFramework/Docker-Images): Docker images that provide specialized suites for different network scenarios.
@@ -12,6 +12,11 @@ Here are some of the projects:
 - [Kathará Lab Checker](https://github.com/KatharaFramework/kathara-lab-checker): Tool to automatically check Kathará network scenarios based on a configuration file. 
 - [Kathará Network Plugin](https://github.com/KatharaFramework/NetworkPlugin): Docker Network Plugin used by Kathará to create pure L2 networks.
 - [Netkit Lab Generator](https://github.com/KatharaFramework/Netkit-Lab-Generator): A tool to configure a Kathará or a Netkit lab and generate all the files you need and the topology graph.
+
+### IXP Solutions
+
+- [IXP Digital Twin](https://github.com/KatharaFramework/ixp-digital-twin): A tool for generating an emulation-based digital twin for Internet Exchange Points (IXPs), enabling IXPs to test and validate route server configurations in a controlled environment.
+- [IXP Quarantine Dashboard](https://github.com/KatharaFramework/ixp-quarantine-dashboard): A GUI that allows customers to run quarantine checks of the IXP Digital Twin for configuration validation directly from a browser, showing check statuses and providing guidance for fixing issues.
 
 ## How to Contribute
 
