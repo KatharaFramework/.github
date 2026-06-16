@@ -19,6 +19,10 @@ Welcome to the Kathará Framework on GitHub! Kathará is a network emulator desi
 - [IXP Digital Twin Dashboard](https://github.com/KatharaFramework/ixp-digital-twin-dashboard): A web-based dashboard for configuring, monitoring and managing the IXP Digital Twin.
 - [IXP Quarantine Dashboard](https://github.com/KatharaFramework/ixp-quarantine-dashboard): A GUI that allows customers to run quarantine checks of the IXP Digital Twin for configuration validation directly from a browser, showing check statuses and providing guidance for fixing issues.
 
+### Other Projects
+
+- [ROSE-T](https://github.com/KatharaFramework/roset): A tool that allows to ensure that router configurations are MANRS-compliant to the Network Operator Guidelines.
+
 ## How to Contribute
 
 We welcome contributions from the community! If you are interested in improving the Kathará framework, feel free to contribute in the following ways:
